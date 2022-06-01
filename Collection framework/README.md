@@ -1,7 +1,7 @@
 ## Coder : Subham Maity
 
 ### Note: Just look at the code ,and you will understand the code and the logic behind it also definition of the code
-********************
+
 * ### [Array List](#array-list)
 * ### [Stack](#stack)
 * ### [Queue(Linked List)](#queuelinked-list)
@@ -12,7 +12,6 @@
 * ### [Linked Hash Set](#linked-hash-set)
 * 
 
-*****************************
 <p>List implementations:</p>
 
 <pre><code>                      get  add  contains next remove(0) iterator.remove
