@@ -2,15 +2,16 @@
 
 ### Note: Just look at the code ,and you will understand the code and the logic behind it also definition of the code
 
-* ### [Array List](#array-list)
-* ### [Stack](#stack)
-* ### [Queue(Linked List)](#queuelinked-list)
-* ### [Linked List(list)](#linked-listlist)
-* ### [Priority Queue](#priority-queue)
-* ### [Array Deque](#array-deque)
-* ### [Hash Set](#hash-set)
-* ### [Linked Hash Set](#linked-hash-set)
-* 
+* [Array List](#array-list)
+* [Stack](#stack)
+* [Queue(Linked List)](#queuelinked-list)
+* [Linked List(list)](#linked-listlist)
+* [Priority Queue](#priority-queue)
+* [Array Deque](#array-deque)
+* [Hash Set](#hash-set)
+* [Linked Hash Set](#linked-hash-set)
+
+************************
 
 <p>List implementations:</p>
 
@@ -56,7 +57,7 @@ LinkedList            O(1)     O(1) O(1)     O(1)
 ArrayDeque            O(1)     O(1) O(1)     O(1)
 LinkedBlockingDeque   O(1)     O(1) O(1)     O(1)
 </code></pre>
-
+****************************
 # Array List
 ```java
 import java.util.ArrayList;
