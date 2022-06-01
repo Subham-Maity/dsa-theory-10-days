@@ -56,7 +56,7 @@ LinkedList            O(1)     O(1) O(1)     O(1)
 ArrayDeque            O(1)     O(1) O(1)     O(1)
 LinkedBlockingDeque   O(1)     O(1) O(1)     O(1)
 </code></pre>
-****************************
+
 # Array List
 ```java
 import java.util.ArrayList;
