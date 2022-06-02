@@ -10,16 +10,23 @@
 * [Array Deque](#array-deque)
 * [Hash Set](#hash-set)
 * [Linked Hash Set](#linked-hash-set)
+<<<<<<< HEAD
 * [Custom Class HashSet](#custom-class-hashset)
 * [Hash Map](#hash-map)
 * [Tree Map](#tree-map)
 * [Array Class](#array-class)
 * [Collection Class](#collection-class)
+=======
+>>>>>>> 3db4a8ea8a76a6ef3ebbf8e044444d84cf630508
 
 ![image2-1](https://user-images.githubusercontent.com/97989643/171506183-b340a26c-9536-4b4d-b4c3-e3f58e560f76.png)
 
 
 ************************
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3db4a8ea8a76a6ef3ebbf8e044444d84cf630508
 <p>List implementations:</p>
 
 <pre><code>                      get  add  contains next remove(0) iterator.remove
@@ -659,6 +666,7 @@ public class linkedHashSet {
 }
 
 ```
+<<<<<<< HEAD
 
 ## Output
 
@@ -1113,3 +1121,5 @@ max element 76
 [1, 2, 3, 4, 10, 10, 10, 10]
 
 ```
+=======
+>>>>>>> 3db4a8ea8a76a6ef3ebbf8e044444d84cf630508
