@@ -45,17 +45,14 @@
 # Overview(quick revision)
 
 
-<p align="center">
-        <img src="https://github.com/Subham-Maity/java-arrays-data-structure/blob/master/IMAGES/1D_arrays.png?raw=true"/>
-        </p>
+![1D_arrays](https://user-images.githubusercontent.com/97989643/171969827-c08d69ba-a76f-447e-942f-afb6c6ed6ff3.png)
 
-<p align="center">
-        <img src="https://github.com/Subham-Maity/java-arrays-data-structure/blob/master/IMAGES/2D_arrays.png?raw=true"/>
-        </p>
 
-<p align="center">
-        <img src="https://github.com/Subham-Maity/java-arrays-data-structure/blob/master/IMAGES/arraylist.png?raw=true"/>
-        </p>
+![2D_arrays](https://user-images.githubusercontent.com/97989643/171969834-bd07629d-72f3-4c80-b6bd-c2fbf1be2776.png)
+
+
+
+![arraylist](https://user-images.githubusercontent.com/97989643/171969846-7d9ed67e-4cd2-4df6-88fc-ee7e420af9b4.png)
 
 
 
@@ -220,15 +217,14 @@ It is similar to 2D matrices that we studied in 11th and 12th class.
 
 
 
-<p align="center">
-        <img src="https://github.com/Subham-Maity/java-arrays-concept-for-DSA/blob/master/IMAGES/3D-array.jpg?raw=true"/>
-        </p>
+![3D-array](https://user-images.githubusercontent.com/97989643/171969805-f5dbeea0-4441-4d8b-9ae3-204339a9ff01.jpg)
+
 
 
 ## 1.Creating a 2D Array - with new keyword
-<p align="center">
-        <img src="https://github.com/Subham-Maity/java-arrays-concept-for-DSA/blob/master/IMAGES/2d%20array%20.png?raw=true"/>
-        </p>
+
+
+![2d array ](https://user-images.githubusercontent.com/97989643/171969815-c2484838-2e56-47a0-a2fe-59060fec1ba2.png)
 
 
 ```java
