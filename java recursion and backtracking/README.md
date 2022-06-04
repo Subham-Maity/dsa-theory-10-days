@@ -43,9 +43,8 @@ Recursion in java is a process in which a method calls itself continuously.
 A method in java that calls itself is called recursive method.
 It makes the code compact but complex to understand.
 ```
-<p align="center">
-        <img src="https://github.com/Subham-Maity/java-recursion-and-backtracking/blob/master/image(ignore)/1.jpg?raw=true"/>
-        </p>
+
+![1](https://user-images.githubusercontent.com/97989643/171969996-20c4a25a-e382-49de-b35f-2af852293ffb.jpg)
 
 
 ### Syntax ?
@@ -85,9 +84,8 @@ public class CodeXam {
 ```
 #### Internal Work in Stack
 
-<p align="center">
-        <img src="https://github.com/Subham-Maity/java-recursion-and-backtracking/blob/master/image(ignore)/2.jpg?raw=true"/>
-        </p>
+![2](https://user-images.githubusercontent.com/97989643/171970006-1a4a141c-a064-4a57-936a-15452aa089d9.jpg)
+
 
 ### 2. Print Numbers from 1 to 5
 ```java
@@ -127,9 +125,8 @@ public class CodeXam {
 ```
 #### Internal Work in Stack
 
-<p align="center">
-        <img src="https://github.com/Subham-Maity/java-recursion-and-backtracking/blob/master/image(ignore)/3.jpg?raw=true"/>
-        </p>
+
+![3](https://user-images.githubusercontent.com/97989643/171970009-3b27769e-3aba-425f-a69d-93dde4b21058.jpg)
 
 ### 3. Print sum of first n natural numbers
 
@@ -185,15 +182,13 @@ public class CodeXam {
     }
 }
 ```
-<p align="center">
-        <img src="https://github.com/Subham-Maity/java-recursion-and-backtracking/blob/master/image(ignore)/5.png?raw=true"/>
-        </p>
+![5](https://user-images.githubusercontent.com/97989643/171970016-c8272f86-8ffb-4dcd-a281-f61a745d80ab.png)
+
 
 #### Internal Work in Stack
 
-<p align="center">
-        <img src="https://github.com/Subham-Maity/java-recursion-and-backtracking/blob/master/image(ignore)/4.jpeg?raw=true"/>
-        </p>
+
+![4](https://user-images.githubusercontent.com/97989643/171970020-11752ea8-b999-41bf-b8b4-23bcd7dee46e.jpeg)
 
 
 ### 4. Print Factorial of a number n
@@ -257,28 +252,25 @@ public class CodeXam {
 }
 ```
 <p align="center">
-        <img src="https://github.com/Subham-Maity/java-recursion-and-backtracking/blob/master/image(ignore)/6.png?raw=true"/>
-        </p>
+![6](https://user-images.githubusercontent.com/97989643/171970024-7a90f3d5-9114-47a4-9a0a-9fbce4dad0f6.png)
+
 
 #### Internal Work in Stack
 
-<p align="center">
-        <img src="https://github.com/Subham-Maity/java-recursion-and-backtracking/blob/master/image(ignore)/7.jpeg?raw=true"/>
-        </p>
+
+![7](https://user-images.githubusercontent.com/97989643/171970033-99dd0b45-1a98-4a76-8eaa-5f97a4c96e12.jpeg)
 
 
 
 ### 5. Print the fibonacci sequence till nth term
 
-<p align="center">
-        <img src="https://github.com/Subham-Maity/java-recursion-and-backtracking/blob/master/image(ignore)/fib.gif?raw=true"/>
-        </p>
+![fib](https://user-images.githubusercontent.com/97989643/171970057-392e6fad-0d53-43fc-a062-99faff1a252a.gif)
+
 
 **What is fibonacci series?**
 
-<p align="center">
-        <img src="https://github.com/Subham-Maity/java-recursion-and-backtracking/blob/master/image(ignore)/7.png?raw=true"/>
-        </p>
+![7](https://user-images.githubusercontent.com/97989643/171970063-0b94dd40-5bd4-4e6b-8a4e-c3b6431e3fc7.png)
+
 
 ```javascript
 Supppose we want 7th index position fibonacci so here 7 is our nth postion
@@ -337,9 +329,8 @@ public class CodeXam {
 }
 ```
 #### Tree Visualize
-<p align="center">
-        <img src="https://github.com/Subham-Maity/java-recursion-and-backtracking/blob/master/image(ignore)/fibtrees.jpg?raw=true"/>
-        </p>
+
+![fibtrees](https://user-images.githubusercontent.com/97989643/171970075-75702696-de28-4f0e-9a13-e01eaa4ac6da.jpg)
 
 
 ### 6. Print  
@@ -408,9 +399,8 @@ public class CodeXam {
         }
 }
 ```
-<p align="center">
-        <img src="https://github.com/Subham-Maity/java-recursion-and-backtracking/blob/master/image(ignore)/stackheight.jpeg?raw=true"/>
-        </p>
+![stackheight](https://user-images.githubusercontent.com/97989643/171970085-26eeddcd-a0bd-455f-ab2f-201863b3f602.jpeg)
+
 
 ### 7. Print  
 ## x<sup>n (stack height = logn))
@@ -423,28 +413,24 @@ public class CodeXam {
 ##### =  x<sup>n
 So,
 Example (even)
-<p align="center">
-        <img src="https://github.com/Subham-Maity/java-recursion-and-backtracking/blob/master/image(ignore)/7prob.png?raw=true"/>
-        </p>
+![7prob](https://user-images.githubusercontent.com/97989643/171970090-a985c44b-ec24-4d83-88eb-b9d444afd4c5.png)
+
 
 ```javascript
 Here height is 3 beacuse of the level of the tree is 3
 ```
 Example (odd)
-<p align="center">
-        <img src="https://github.com/Subham-Maity/java-recursion-and-backtracking/blob/master/image(ignore)/7probodd.png?raw=true"/>
-        </p>
+
+![7probodd](https://user-images.githubusercontent.com/97989643/171970095-884c092f-a8f8-40a1-ad18-25c3139c61b3.png)
 
 ```javascript
 Here height is 3 beacuse of the level of the tree is 3
 ```
 So,
-<p align="center">
-        <img src="https://github.com/Subham-Maity/java-recursion-and-backtracking/blob/master/image(ignore)/stackheight3.png?raw=true"/>
-        </p>
-<p align="center">
-        <img src="https://github.com/Subham-Maity/java-recursion-and-backtracking/blob/master/image(ignore)/stackheight4.png?raw=true"/>
-        </p>
+![stackheight3](https://user-images.githubusercontent.com/97989643/171970100-a24ce6ea-6745-4fc3-a013-74fcfdd2e377.png)
+
+![stackheight4](https://user-images.githubusercontent.com/97989643/171970101-5904c747-70f3-43fc-922e-849730a6bef9.png)
+
 
 
 
@@ -471,9 +457,8 @@ public class CodeXam {
 }
 ```
 
-<p align="center">
-        <img src="https://github.com/Subham-Maity/java-recursion-and-backtracking/blob/master/image(ignore)/stackheight2.jpeg?raw=true"/>
-        </p>
+![stackheight2](https://user-images.githubusercontent.com/97989643/171970110-ffc88032-577b-4626-bf2e-3f95bbd4fbfb.jpeg)
+
 
 ## Level 2(Problems)
 
@@ -496,18 +481,16 @@ If we have only one disk we considered it as n =1 so
 transferring process will easy in this process 
 one is **Source(S)** and 2nd one is **Head(H)** and then last one is **Destination(D)**
 
-<p align="center">
-        <img src="https://github.com/Subham-Maity/java-recursion-and-backtracking/blob/master/image(ignore)/th1.png?raw=true"/>
-        </p>
+![th1](https://user-images.githubusercontent.com/97989643/171970114-16ec06d2-8bd3-4db2-9218-ef86fba168e3.png)
+
 
 Step 2:
 If we have only two disk we considered it as n =2 so
 transferring process will easy in this process
 one is **Source(S)** and 2nd one is **Head(H)/Auxiliary** and then last one is **Destination(D)**
 
-<p align="center">
-        <img src="https://github.com/Subham-Maity/java-recursion-and-backtracking/blob/master/image(ignore)/towerofhanoi2.gif?raw=true"/>
-        </p>
+![towerofhanoi2](https://user-images.githubusercontent.com/97989643/171970117-d74adfbb-d049-42ab-b734-cbd8e8312308.gif)
+
 
 Step 3:
 If we have only three disk we considered it as n = 3 so
@@ -540,9 +523,9 @@ The pattern here is :
  - Shift last disk from 'A' to 'C'.
  - Shift 'n-1' disks from 'B' to 'C', using A.
 ```
-<p align="center">
-        <img src="https://github.com/Subham-Maity/java-recursion-and-backtracking/blob/master/image(ignore)/stackheight3.jpeg?raw=true"/>
-        </p>
+
+![stackheight3](https://user-images.githubusercontent.com/97989643/171970122-a0b71c01-87ce-4713-9be5-8af05b02ca93.jpeg)
+
 
 **Code Remember Tips** 
 ```javascript
@@ -593,14 +576,12 @@ transfer disk 1 from S to D
 
 ```
 
-<p align="center">
-        <img src="https://github.com/Subham-Maity/java-recursion-and-backtracking/blob/master/image(ignore)/towerofhanoi.png?raw=true"/>
-        </p>
+![towerofhanoi](https://user-images.githubusercontent.com/97989643/171970147-1bfe4a0d-4bd1-4ab1-8994-3a957b24fdc8.png)
+
 
 **Time Complexity** 
-<p align="center">
-        <img src="https://github.com/Subham-Maity/java-recursion-and-backtracking/blob/master/image(ignore)/timecomplexity%20.jpg?raw=true"/>
-        </p>
+
+![timecomplexity ](https://user-images.githubusercontent.com/97989643/171970155-e0f6f05a-886e-4def-b8bc-a3f197298ba4.jpg)
 
 
 ### [Details Tower of Hanoi](https://github.com/Subham-Maity/tower-of-hanoi)
@@ -648,9 +629,8 @@ public class CodeXam  {
         }
     }
 ```
-<p align="center">
-        <img src="https://github.com/Subham-Maity/java-recursion-and-backtracking/blob/master/image(ignore)/reverse.png?raw=true"/>
-        </p>
+
+![reverse](https://user-images.githubusercontent.com/97989643/171970168-0c366b35-5547-4ec8-8591-dabffdd96ebd.png)
 
 
 ### Time-complexity :- 
@@ -776,9 +756,8 @@ suppose we have this string "axbсxxd" and the output will be abcdxxx
 
 ### Approach 
 
-<p align="center">
-        <img src="https://github.com/Subham-Maity/java-recursion-and-backtracking/blob/master/image(ignore)/xtransfer.png?raw=true"/>
-        </p>
+
+![xtransfer](https://user-images.githubusercontent.com/97989643/171970183-d10674da-9e1c-45f2-93ee-09ebef3373a0.png)
 
 
 ```java
@@ -852,9 +831,8 @@ suppose we have this string ""abcadbcefghabi"" and the output will be "abcdefghi
 
 ### Approach
 
-<p align="center">
-        <img src="https://github.com/Subham-Maity/java-recursion-and-backtracking/blob/master/image(ignore)/maprecursion.png?raw=true"/>
-        </p>
+![maprecursion](https://user-images.githubusercontent.com/97989643/171970191-1a34c176-a2f6-4a0a-a70d-4624310945a1.png)
+
 
 
 ```java
@@ -912,10 +890,9 @@ Time Complexity -> O(n)
 
 ### 14. Print all the subsequences of a string.
 
+![SS](https://user-images.githubusercontent.com/97989643/171970197-edd300a3-b6df-42c8-951b-63f739848e71.png)
 
-<p align="center">
-        <img src="https://github.com/Subham-Maity/java-recursion-and-backtracking/blob/master/image(ignore)/SS.png?raw=true"/>
-        </p>
+
 
 ### Approach
 ```javascript
@@ -967,16 +944,14 @@ public class CodeXam {
 
 ### Time-complexity :-
 O(2^n)
-<p align="center">
-        <img src="https://github.com/Subham-Maity/java-recursion-and-backtracking/blob/master/image(ignore)/SSTC.png?raw=true"/>
-        </p>
+![SSTC](https://user-images.githubusercontent.com/97989643/171970200-c1255840-7505-4f30-8665-df67feb3fb10.png)
+
 
 ### 15. Print all unique subsequences of a string.
 
 
-<p align="center">
-        <img src="https://github.com/Subham-Maity/java-recursion-and-backtracking/blob/master/image(ignore)/sssp.png?raw=true"/>
-        </p>
+![sssp](https://user-images.githubusercontent.com/97989643/171970207-32401431-1b12-450b-863b-3b5595437b42.png)
+
 
 ### Approach
 ```javascript
@@ -985,9 +960,8 @@ O(2^n)
 3.call 2 -> newString(not paired)
 4.Use hashset for unique subsequences
 ```
-<p align="center">
-        <img src="https://github.com/Subham-Maity/java-recursion-and-backtracking/blob/master/image(ignore)/16.png?raw=true"/>
-        </p>
+![16](https://user-images.githubusercontent.com/97989643/171970216-d7da7c2c-4f69-4715-8612-18eb19bdd55b.png)
+
 
 ```java
 import java.util.HashSet;
@@ -1076,9 +1050,8 @@ where the digit is the input number array.
 string concatenated with the ith character of the string and the current_index + 1
 ```
 
-<p align="center">
-        <img src="https://github.com/Subham-Maity/java-recursion-and-backtracking/blob/master/image(ignore)/16.2.png?raw=true"/>
-        </p>
+
+![16 2](https://user-images.githubusercontent.com/97989643/171970244-ac2f3e56-59cc-470b-af72-3a4967d425d7.png)
 
 
 ```java
@@ -1132,10 +1105,9 @@ Space Complexity:O(1).
 ### 17. Print all the permutations of a string.
 
 
+![17](https://user-images.githubusercontent.com/97989643/171970271-f894fe43-0fbd-4c89-a820-551f641c0fb4.png)
 
-<p align="center">
-        <img src="https://github.com/Subham-Maity/java-recursion-and-backtracking/blob/master/image(ignore)/17.png?raw=true"/>
-        </p>
+
 
 
 ### Approach
