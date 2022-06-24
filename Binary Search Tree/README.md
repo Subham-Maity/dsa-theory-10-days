@@ -29,4 +29,9 @@
 now if key is lesser than mid of the left side then we search in left side.Now if key is matching mid of the left side then we found the key.**
 
 
+**Steps to find the key with BS**
+- Compare x with the middle element.
+- If x matches with the middle element, we return the mid-index.
+- Else If x is greater than the mid-element, then x can only lie in the right half subarray after the mid-element. So we recur for the right half.
+- Else (x is smaller) recur for the left half.
 
