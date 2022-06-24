@@ -22,6 +22,9 @@
 
 #### What is binary search?
 
+
+![binary-search](https://user-images.githubusercontent.com/97989643/175469644-73df90d5-e475-45cd-ab63-04492bf06d70.gif)
+
 **If key is less than mid-element then that key is in left side now we search for mid of the left side. 
 now if key is lesser than mid of the left side then we search in left side.Now if key is matching mid of the left side then we found the key.**
 
