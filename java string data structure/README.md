@@ -45,9 +45,7 @@
 * [Print Length of String](#print-length-of-a-string)
 * [Reverse a String (using StringBuilder class)](#reverse-a-string-using-stringbuilder-class)
 
-### Practice Part
 
-* [**Basic Questions**](#3string-basic-question)
    
 # String in Java
 
@@ -654,7 +652,5 @@ public class Strings {
 
 
 ```
-## 3.String Basic Question
 
-## [String Basic Question](https://github.com/Subham-Maity/java-python-problem-solving-series) 
 
