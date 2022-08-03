@@ -1,1 +1,0 @@
-![Screenshot](mnc.png)
